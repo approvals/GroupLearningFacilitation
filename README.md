@@ -22,3 +22,7 @@ When reading obversations try to group them by placing simular things near each 
 bring sharpies to write with. Before the slide show I usually point out that common sense is simply things we have learned, then forgotten we ever learned and assumed we knew all along. 
 
 I also point out that humans exhibit 'flight or fight' responses and many people will not read the orange sticky notes, but will simply zone out and skim them.
+
+## Roles
+
+Check out the [role cards](https://github.com/approvals/GroupLearningFacilitation/blob/master/Printouts/Koans%20Randori%20Role%20Cards.pdf)
